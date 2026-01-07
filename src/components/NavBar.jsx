@@ -4,7 +4,7 @@ function Navbar() {
   return (
     <nav className="navbar navbar-expand-lg navbar-dark bg-dark">
       <div className="container">
-        <Link className="navbar-brand" to="/">MyApp</Link>
+        <Link className="navbar-brand" to="/">News App</Link>
 
         {/* 1. ADDED THIS BUTTON FOR RESPONSIVENESS */}
         <button
